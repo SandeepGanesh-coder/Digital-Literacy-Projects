@@ -1,0 +1,35 @@
+Name- R. Sandeep Ganesh
+Reg No-25BET10007
+Course- B.Tech Computer Science and Engineering (Education Technology)
+Project Title - The Digital Divide Within
+Project Overview - A structured case study exploring how students navigate digital tools without 
+fully understanding them — examining identity, collaboration, communication, and cyber safety through the lens of one student's experience.
+Digital literacy is the ability to find, evaluate, create, and communicate information using digital technologies — but more than that, it is the capacity to act responsibly and critically within digital environments. It goes beyond knowing how to use a device or an app. It encompasses understanding why digital decisions matter, how online actions leave lasting traces, and what it means to participate ethically in an increasingly connected world.
+
+              "Literacy is not about the tools you use — it is about the judgment you bring to using them"
+Section E: Communication and Digital Etiquette
+Digital Literacy Case Study | VITyarthi – NGMC
+1. Arjun's Email — What It Actually Tells Us The email Arjun sent to his faculty member was two lines long, had no subject, no greeting
+beyond "Hi sir," and ended with "Send asap." When I first read this, my instinct was tothink: how could someone not know better? But that instinct misses something important.Arjun almost certainly did know better — in the sense that he had, at some point, been told what a professional email looks like. The rules are not secret.
+So the question is not why he did not know the rules. The question is why, in that specific moment, the rules did not govern his behavior. And the answer is simple: habit is stronger than knowledge. Arjun spent most of his communicating day on platforms where two-line
+messages are normal, where punctuation is optional, where "asap" is completely standard. The professional email format is something he knows exists — but it is not his default. It requires a deliberate shift that, under time pressure, he did not make.
+2. Why Students Fail to Maintain Professionalism — A Behavioral
+Explanation:- The standard explanation for why students write unprofessional emails is lack of knowledge or laziness. I think both of those are insufficient. Most students are not ignorant of professional communication norms. The more accurate explanation is context collapse — the tendency for communication styles appropriate in one context to bleed into other contexts when the signals distinguishing those contexts are absent or weak.
+For Arjun, writing an email and sending a WhatsApp message both involve typing on a screen and pressing send. The physical act is identical. The contextual difference is  something he has to actively hold in mind. When he was in a hurry, he did not hold it in
+mind. The habit of informal communication filled the space. This is a structural feature of digital communication — physical meetings and handwritten letters have strong contextual signals that prompt appropriate register shifts. Typed messages on a screen have weak contextual signals.
+3. Is Informal Communication Becoming the New Professional
+Standard?
+There is a legitimate argument that professional communication norms are evolving, and that insisting on formal email structure is more about tradition than genuine professional effectiveness. Many successful companies communicate internally in ways that would have looked unprofessional by earlier standards. Slack messages, casual video calls — these are now standard in many workplaces. If the professional world is becoming more casual, why train students in formality that is increasingly outdated? This argument has some merit in the right context. Within a team that already knows each
+other, informality is often appropriate. The problem is that informality as a default breaks down in contexts where you have not yet established a relationship, where power dynamics are real, or where the stakes of first impressions are high. An email to a faculty
+member asking for a recommendation is precisely that kind of context. In that situation, "Hi
+sir, Send asap" does not communicate efficiency. It communicates that Arjun has not  thought carefully about how he comes across.
+4. Should People Be Judged on Their Digital Communication Style? Yes — and they already are, whether or not we think it is fair. Employers read emails.
+Faculty form impressions. Colleagues develop perceptions. The people making decisions about your opportunities are drawing information from everything you communicate, including how you communicate it. The argument that people should not be judged on their communication style is philosophically coherent. It is also not how human beings process information.
+The way something is communicated carries information about the communicator. Effort, awareness, care, respect — these are all signaled (or not signaled) in the form of a message, not just its content. Arjun's two-line email communicated his request clearlyenough. But it also communicated, unintentionally, that he had not thought very carefully about how the faculty member would receive it. That unintentional communication hadconsequences. Communication style shapes perception. Perception shapes opportunity. That chain is uncomfortable if we value fairness — but acknowledging that the chain exists is the first step to doing something about it.
+Personal Reflection
+ On Communication and My Own Digital HabitsI recognized myself in Arjun's email more than I would like to admit. I have sent messages
+to faculty and coordinators that, looking back, were closer to his version than to the revised one in the case study. Not quite as blunt, but with the same  underlying carelessness — no subject line that actually explained the purpose, no context about who I was or why I was
+writing, a tone that was more casual than the situation called for. At the time, I thought I was being efficient. I now think I was being inattentive.
+The "context collapse" concept in this section gave me a useful name for something I had experienced but never articulated. I genuinely do switch modes between WhatsApp and email — but the switch is not always complete or conscious. Sometimes I start composing what is essentially a chat message and press send before I have registered that the recipient and the stakes are different. That is a habit problem, not a knowledge problem. And habit problems require deliberate practice to fix, not just awareness.One thing I am going to start doing: before I press send on any email to a faculty member,
+employer, or institution, I will re-read it once as if I am the person receiving it. Not just checking for spelling, but asking: what impression does this create? Does it show that I thought about the recipient, or does it show that I thought only about getting my request out quickly? That single habit, applied consistently, would have saved Arjun from his miscommunication — and it will probably save me from a few of my own.
+   
