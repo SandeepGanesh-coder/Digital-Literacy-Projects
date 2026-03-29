@@ -1,6 +1,7 @@
 Name- R. Sandeep Ganesh
 Reg No-25BET10007
-CouresProject Title - The Digital Divide Within
+Course - B.Tech Computer Science and Engineering (Education Technology) 
+Project Title - The Digital Divide Within
 Project Overview - A structured case study exploring how students navigate digital tools without 
 fully understanding them — examining identity, collaboration, communication, and cyber safety through the lens of one student's experience.
 Digital literacy is the ability to find, evaluate, create, and communicate information using digital technologies — but more than that, it is the capacity to act responsibly and critically within digital environments. It goes beyond knowing how to use a device or an app. It encompasses understanding why digital decisions matter, how online actions leave lasting traces, and what it means to participate ethically in an increasingly connected world.
